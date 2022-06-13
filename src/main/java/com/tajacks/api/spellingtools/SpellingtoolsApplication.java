@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class SpellingtoolsApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(SpellingtoolsApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(SpellingtoolsApplication.class, args);
+    }
 
 }
